@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29989fec.css",
+    "main.js": "/static/js/main.b29b3eb5.js",
+    "static/media/AboutImg.png": "/static/media/AboutImg.cca7b5be0ba19df241c5.png",
+    "static/media/land.avif": "/static/media/land.b21963b0f7be14d6847d.avif",
+    "static/media/betterLogo.png": "/static/media/betterLogo.c3538bdcda8b4506823f.png",
+    "static/media/Instagram.png": "/static/media/Instagram.a41981b79ab2db8f46a1.png",
+    "index.html": "/index.html",
+    "main.29989fec.css.map": "/static/css/main.29989fec.css.map",
+    "main.b29b3eb5.js.map": "/static/js/main.b29b3eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29989fec.css",
+    "static/js/main.b29b3eb5.js"
+  ]
+}
